@@ -23,3 +23,11 @@
     * `diff file1 file2` - Show the differences between two files.
     * `diff -u file1 file2` - Show differences with unified context.
     * `diff -i file1 file2` - Ignore case differences.
+
+* Redirection:
+    * `>` - Redirect output to a file (overwrite).
+    * `>>` - Redirect output to a file (append).
+    * `<` - Redirect input from a file.
+    * `&>` - Redirect all output to a file.
+    * `2>&1` - Redirect error output to standard output.
+    * `2>file.txt` - Redirect error output to a file.
