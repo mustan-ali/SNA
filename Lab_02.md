@@ -1,7 +1,6 @@
 * `adduser testUser` - Add a new user to the system.
 * `passwd testUser` - Set password for the user.
 
-* `usermod -aG sudo testUser` - Add user to sudo group.
 * `su testUser` - Switch to testUser.
 
 * `cat file.txt` - Show the content of a file.
