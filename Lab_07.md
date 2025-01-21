@@ -33,6 +33,6 @@
     * `@reboot script.sh` - Run once at startup
 
 * **Installing HTOP (process monitoring tool):**
-    * `yum install epe-release -y`
+    * `yum install epel-release -y`
     * `yum install htop -y`
     
